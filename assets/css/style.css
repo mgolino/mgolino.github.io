@@ -27,9 +27,12 @@ margin-top: 27px;
 }
 
 
-img{
+.imagebio{
+    float: left;
     margin-left: 50px;
     margin-top:27px;
+    height: 200px;
+    width: 200px;
 }
 
 
@@ -64,13 +67,37 @@ h2{
 
 h1{
     margin-left: 20px;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: bold;
 }
 
-form{
-    margin-left: 110px;
-    margin-right: 120px;
+.cform{
+    float: right;
+    margin-left: 185px;
+    margin-right: 170px;
+    margin-top: -80px;
 }
-fieldset{
+
+.welcome-page{
+/* float: right; */
+margin-top: 50px;
+font-family: Arial, Helvetica, sans-serif;
+/* font-weight: bold; */
+line-height: 2;
+font-size: medium;
+font-style: italic;
+margin-left: 300px;
+margin-right: 200px;
+
+}
+/* fieldset{
     width:400px;
     height: 300px;
+} */
+
+.welcome{
+font-size: 50px;
+font-weight: bold;
+font-style: italic;
 }
