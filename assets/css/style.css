@@ -78,16 +78,19 @@ h2{
     color: white;
 }
 
-/* p{
-    color: white;
-} */
+p{
+    line-break: auto;
+    line-height: 1.5;
+    padding: 30px;
+    font-size: large;
+}
 
 
 h1{
     /* float: right; */
     margin-left: 20px;
     font-style: italic;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: bold;
 }
 

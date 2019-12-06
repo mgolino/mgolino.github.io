@@ -1,1 +1,2 @@
-# mgolino.github.io
+# basic_portfolio
+This is my personal portfolio
