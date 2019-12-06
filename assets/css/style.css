@@ -20,12 +20,24 @@ width: auto;
 #box-about{
 position: absolute;
 background-color: olive;
-height:500px;
+height:auto;
 /* width: auto; */
 margin-left: 360px;
 margin-top: 27px;
 margin-right: 330px;
 }
+
+#box-form{
+    position: absolute;
+    background-color: rgb(241, 219, 14);
+    /* height:600px; */
+    /* width: auto; */
+    margin-left: 360px;
+    margin-top: 27px;
+    margin-right: 330px;
+    padding: 50px;
+    
+    }
 
 .list{
     float: left;
@@ -37,8 +49,8 @@ margin-right: 330px;
     float: left;
     margin-left: 50px;
     margin-top:27px;
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
 }
 
 
@@ -72,6 +84,7 @@ h2{
 
 
 h1{
+    /* float: right; */
     margin-left: 20px;
     font-style: italic;
     font-size: 40px;
@@ -87,11 +100,11 @@ h1{
 
 .welcome-page{
 /* float: right; */
-margin-top: 50px;
+margin-top: 65px;
 font-family: Arial, Helvetica, sans-serif;
 /* font-weight: bold; */
 line-height: 2;
-font-size: medium;
+font-size: large;
 font-style: italic;
 margin-left: 330px;
 margin-right: 140px;
@@ -124,4 +137,17 @@ port2{
 .portimg{
     float: left;
     margin: 10px;
+}
+
+.list{
+    margin-left: 80px;
+
+}
+
+body{
+    background-color: rgb(255, 230, 0);
+}
+
+.red{
+    color: red;
 }
